@@ -17,12 +17,21 @@
 sudo touch /Volumes/boot/ssh
 ```
 
-## Enable Serial Console
-
+## Edit config.txt
 * Mount the SD card on your computer
 * Open file for edit named `config.txt` in the boot partition.
-* Add `enable_uart=1` to config.txt
-* On Raspberry Pi 3 `dtoverlay=pi3-disable-bt`
+```bash
+vim /Volumes/boot/config.txt
+```
+
+### Enable serial console (optional)
+* Add or edit the following line `enable_uart=1`
+* On Raspberry Pi 3 also add `dtoverlay=pi3-disable-bt`
+
+### Adjust gpu memory (optional)
+* Add or edit the following line `gpu_mem=16`
+* The minimum value is 16.
+* The maximum value is 192, 448, or 944, depending on whether you are using a 256MB, 512MB, or 1024+MB Pi.
 
 ## Initial setup
 
