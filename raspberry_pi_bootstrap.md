@@ -13,13 +13,15 @@
 ## Enable headless access
 * Mount the SD card on your computer
 * Put an empty file named `ssh` in the boot partition to enable ssh.
-    sudo touch /Volumes/boot/ssh
+```bash
+sudo touch /Volumes/boot/ssh
+```
 
 ## Enable Serial Console
 
 * Mount the SD card on your computer
 * Open file for edit named `config.txt` in the boot partition.
-* Add `enable_uart=1` config.txt
+* Add `enable_uart=1` to config.txt
 * On Raspberry Pi 3 `dtoverlay=pi3-disable-bt`
 
 ## Initial setup
