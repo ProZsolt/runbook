@@ -42,7 +42,7 @@ vim /Volumes/boot/config.txt
 ### Setup Passwordless SSH access
 * Copy your public key to the Raspberry Pi `authorized_keys` file
 ```bash
-ssh-copy-id pi@IP
+ssh-copy-id pi@raspberrypi.local
 ```
 
 * Add or edit the following line in `/etc/ssh/sshd_config`
@@ -55,6 +55,6 @@ PasswordAuthentication no
 * Change raspberrypi to your desired hostname in `/etc/hostname` and `/etc/hosts`
 ```bash
 NEW_HOSTNAME=new-hostname
-sed -i "s/raspberrypi/$NEW_HOSTNAME/g" /etc/hostname
-sed -i "s/raspberrypi/$NEW_HOST/g" /etc/hosts
+sudo sed -i "s/raspberrypi/$NEW_HOSTNAME/g" /etc/hostname
+sudo sed -i "s/raspberrypi/$NEW_HOST/g" /etc/hosts
 ```
