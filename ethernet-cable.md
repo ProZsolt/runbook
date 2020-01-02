@@ -6,14 +6,14 @@
 
 | ISO/IEC11801 Name | Cable Shielding Type | Twisted Pair Shielding Type | Picture                                          |
 | ----------------- | -------------------- | --------------------------- | ------------------------------------------------ |
-| U/UTP             | none                 | none                        | ![U/UTP](images/ethernet-cable/UUTP-cable.png)   |
-| F/UTP             | foil                 | none                        | ![F/UTP](images/ethernet-cable/FUTP-cable.png)   |
-| S/UTP             | braiding             | none                        | ![S/UTP](images/ethernet-cable/SUTP-cable.png)   |
-| SF/UTP            | braiding & foil      | none                        | ![SF/UTP](images/ethernet-cable/SFUTP-cable.png) |
-| U/FTP             | none                 | foil                        | ![U/FTP](images/ethernet-cable/UFTP-cable.png)   |
-| F/FTP             | foil                 | foil                        | ![F/FTP](images/ethernet-cable/FFTP-cable.png)   |
-| S/FTP             | braiding             | foil                        | ![S/FTP](images/ethernet-cable/SFTP-cable.png)   |
-| SF/FTP            | braiding & foil      | foil                        | ![SF/FTP](images/ethernet-cable/SFFTP-cable.png) |
+| U/UTP             | none                 | none                        | ![U/UTP](images/ethernet-cable/UUTP-cable.jpg)   |
+| F/UTP             | foil                 | none                        | ![F/UTP](images/ethernet-cable/FUTP-cable.jpg)   |
+| S/UTP             | braiding             | none                        | ![S/UTP](images/ethernet-cable/SUTP-cable.jpg)   |
+| SF/UTP            | braiding & foil      | none                        | ![SF/UTP](images/ethernet-cable/SFUTP-cable.jpg) |
+| U/FTP             | none                 | foil                        | ![U/FTP](images/ethernet-cable/UFTP-cable.jpg)   |
+| F/FTP             | foil                 | foil                        | ![F/FTP](images/ethernet-cable/FFTP-cable.jpg)   |
+| S/FTP             | braiding             | foil                        | ![S/FTP](images/ethernet-cable/SFTP-cable.jpg)   |
+| SF/FTP            | braiding & foil      | foil                        | ![SF/FTP](images/ethernet-cable/SFFTP-cable.jpg) |
 
 ### Cable categories
 
