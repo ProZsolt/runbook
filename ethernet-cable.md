@@ -17,19 +17,19 @@
 
 ### Cable categories
 
-| Name   | Bandwidth | Applications                              |
-| ------ | --------- | ----------------------------------------- |
-| Cat 1  | 0.4 MHz   | Telephone and modem lines                 |
-| Cat 2  | 4 MHz     | Older terminal systems, e.g. [[IBM 3270]] |
-| Cat 3  | 16 Mhz    | 10BASE-T / 100BASE-T4                     |
-| Cat 4  | 20 MHz    | 16 Mbit/s Token Ring                      |
-| Cat 5  | 100 MHz   | 100BASE-TX / 1000BASE-T                   |
-| Cat 5e | 100 MHz   | 1000BASE-T / 2.5GBASE-T                   |
-| Cat 6  | 250 MHz   | 5GBASE-T / 10GBASE-T                      |
-| Cat 6a | 500 MHz   | 5GBASE-T / 10GBASE-T                      |
-| Cat 7  | 600 MHz   | 5GBASE-T / 10GBASE-T                      |
-| Cat 7a | 1000 MHz  | 5GBASE-T / 10GBASE-T                      |
-| Cat 8  | 2000 Mhz  | 25GBASE-T / 40GBASE-T                     |
+| Name   | Bandwidth | Applications                          |
+| ------ | --------- | ------------------------------------- |
+| Cat 1  | 0.4 MHz   | Telephone and modem lines             |
+| Cat 2  | 4 MHz     | Older terminal systems, e.g. IBM 3270 |
+| Cat 3  | 16 Mhz    | 10BASE-T / 100BASE-T4                 |
+| Cat 4  | 20 MHz    | 16 Mbit/s Token Ring                  |
+| Cat 5  | 100 MHz   | 100BASE-TX / 1000BASE-T               |
+| Cat 5e | 100 MHz   | 1000BASE-T / 2.5GBASE-T               |
+| Cat 6  | 250 MHz   | 5GBASE-T / 10GBASE-T                  |
+| Cat 6a | 500 MHz   | 5GBASE-T / 10GBASE-T                  |
+| Cat 7  | 600 MHz   | 5GBASE-T / 10GBASE-T                  |
+| Cat 7a | 1000 MHz  | 5GBASE-T / 10GBASE-T                  |
+| Cat 8  | 2000 Mhz  | 25GBASE-T / 40GBASE-T                 |
 
 ### RJ45 termination
 
