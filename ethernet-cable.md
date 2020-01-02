@@ -35,13 +35,13 @@
 
 ![RJ45 plug](images/ethernet-cable/Rj45plug-8p8c.png)
 
-| Pin | T568A color| T568B color|
-| ----| ----- | ----- |
-| 1   | ![](images/ethernet-cable/Wire_white_green_stripe.svg) white/green stripe | ![](images/ethernet-cable/Wire_white_orange_stripe.svg) white/orange stripe |
-| 2   | ![](images/ethernet-cable/Wire_green.svg) green solid | ![](images/ethernet-cable/Wire_orange.svg) orange solid |
-| 2   | ![](images/ethernet-cable/Wire_white_orange_stripe.svg) white/orange stripe | ![](images/ethernet-cable/Wire_white_green_stripe.svg) white/green stripe |
-| 2   | ![](images/ethernet-cable/Wire_blue.svg) blue solid | ![](images/ethernet-cable/Wire_blue.svg) blue solid |
-| 2   | ![](images/ethernet-cable/Wire_white_blue_stripe.svg) white/blue stripe | ![](images/ethernet-cable/Wire_white_blue_stripe.svg) white/blue stripe |
-| 2   | ![](images/ethernet-cable/Wire_orange.svg) orange solid | ![](images/ethernet-cable/Wire_green.svg) green solid |
-| 2   | ![](images/ethernet-cable/Wire_white_brown_stripe.svg) white/brown stripe | ![](images/ethernet-cable/Wire_white_brown_stripe.svg) white/brown stripe |
-| 2   | ![](images/ethernet-cable/Wire_brown.svg) brown solid | ![](images/ethernet-cable/Wire_brown.svg) brown solid |
+| Pin | T568A color                                                                 | T568B color                                                                 |
+| --- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1   | ![](images/ethernet-cable/Wire_white_green_stripe.svg) white/green stripe   | ![](images/ethernet-cable/Wire_white_orange_stripe.svg) white/orange stripe |
+| 2   | ![](images/ethernet-cable/Wire_green.svg) green solid                       | ![](images/ethernet-cable/Wire_orange.svg) orange solid                     |
+| 2   | ![](images/ethernet-cable/Wire_white_orange_stripe.svg) white/orange stripe | ![](images/ethernet-cable/Wire_white_green_stripe.svg) white/green stripe   |
+| 2   | ![](images/ethernet-cable/Wire_blue.svg) blue solid                         | ![](images/ethernet-cable/Wire_blue.svg) blue solid                         |
+| 2   | ![](images/ethernet-cable/Wire_white_blue_stripe.svg) white/blue stripe     | ![](images/ethernet-cable/Wire_white_blue_stripe.svg) white/blue stripe     |
+| 2   | ![](images/ethernet-cable/Wire_orange.svg) orange solid                     | ![](images/ethernet-cable/Wire_green.svg) green solid                       |
+| 2   | ![](images/ethernet-cable/Wire_white_brown_stripe.svg) white/brown stripe   | ![](images/ethernet-cable/Wire_white_brown_stripe.svg) white/brown stripe   |
+| 2   | ![](images/ethernet-cable/Wire_brown.svg) brown solid                       | ![](images/ethernet-cable/Wire_brown.svg) brown solid                       |
