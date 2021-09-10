@@ -31,6 +31,15 @@
 | Cat 7a | 1000 MHz  | 5GBASE-T / 10GBASE-T                  |
 | Cat 8  | 2000 Mhz  | 25GBASE-T / 40GBASE-T                 |
 
+### Cable jacket ratings
+
+| Name | Description  |
+| ---- | ------------ |
+| CM   | General use  |
+| CMR  | Riser rated  |
+| CMP  | Plenum rated |
+| CMX  | Outdoor use  |
+
 ### RJ45 termination
 
 ![RJ45 plug](images/ethernet-cable/Rj45plug-8p8c.png)
